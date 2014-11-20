@@ -30,3 +30,7 @@ group :development do
   gem 'capistrano-rbenv'
   gem 'capistrano-bundler'
 end
+
+gem 'activemerchant'
+gem 'haml'
+gem 'kaminari'
